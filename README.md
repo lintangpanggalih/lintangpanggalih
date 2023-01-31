@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lintangpanggalih
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Laravel and Vue.js
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Laravel and Golang
 
 <!---
 lintangpanggalih/lintangpanggalih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
